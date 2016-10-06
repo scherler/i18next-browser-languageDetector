@@ -52,7 +52,7 @@ As with all modules you can either pass the constructor function (class) to the 
   lookupLocalStorage: 'i18nextLng',
 
   // cache user language on
-  caches: ['localStorage', 'cookie']
+  caches: ['localStorage', 'cookie'],
 
   // optional expire and domain for set cookie
   cookieMinutes: 10,
